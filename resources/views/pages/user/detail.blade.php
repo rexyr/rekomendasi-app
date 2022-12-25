@@ -21,6 +21,7 @@
             <div class="card detail-card">
                 <div class="detail-card-image">
                     <img src="{{ asset($cafe->photo) }}" alt="asd">
+                    
                 </div>
             </div>
 
